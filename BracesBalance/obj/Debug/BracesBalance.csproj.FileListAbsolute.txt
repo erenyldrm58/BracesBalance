@@ -1,0 +1,7 @@
+C:\Users\muham\source\repos\BracesBalance\BracesBalance\bin\Debug\BracesBalance.exe.config
+C:\Users\muham\source\repos\BracesBalance\BracesBalance\bin\Debug\BracesBalance.exe
+C:\Users\muham\source\repos\BracesBalance\BracesBalance\bin\Debug\BracesBalance.pdb
+C:\Users\muham\source\repos\BracesBalance\BracesBalance\obj\Debug\BracesBalance.csprojAssemblyReference.cache
+C:\Users\muham\source\repos\BracesBalance\BracesBalance\obj\Debug\BracesBalance.csproj.CoreCompileInputs.cache
+C:\Users\muham\source\repos\BracesBalance\BracesBalance\obj\Debug\BracesBalance.exe
+C:\Users\muham\source\repos\BracesBalance\BracesBalance\obj\Debug\BracesBalance.pdb
